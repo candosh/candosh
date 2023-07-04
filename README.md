@@ -8,5 +8,5 @@
 ### 블로그 | Blog ✨
 - https://seize-the-day9.tistory.com/
 
-### 연락처 | Contacts 🍀
+### 연락처 | Contact 🍀
 - 2886.choi@gmail.com

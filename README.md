@@ -1,8 +1,8 @@
 #### 안녕하세요 :) 도전을 두려워하지 않고 꾸준히 성장하는 개발자가 되고 싶은 최서현입니다.🐥
 
 ## 🤓 Profile 🤓
-> Name : 최서현 (Seohyeon Choi)
-> English name : Cindy
+Name : 최서현 (Seohyeon Choi) <br/>
+English name : Cindy
 
 ## ⭐️ Project ⭐️
 

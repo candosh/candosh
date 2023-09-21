@@ -14,8 +14,8 @@
 
 |활동|설명|활동기간|직책|
 |---|---|---|---|
-| [**VISLAB**](http://vis.ssu.ac.kr/) | 현재 숭실대학교 컴퓨터학부 연구실 중 하나인 VIS LAB에서 학부 연구생으로 있습니다. | 2023.07~현재 | undergraduate research student |
+| [**VISLAB**](http://vis.ssu.ac.kr/) | 숭실대학교 컴퓨터학부 연구실 중 하나인 VIS LAB에서 학부 연구생으로 있습니다. | 2023.07~현재 | undergraduate research student |
 | [**LikeLion**](https://github.com/likelion-ssu/) | 연합동아리 멋쟁이사자처럼에서 활동 중 입니다. | 2023.03~현재 | Frontend Developer |
-| [**SW마에스트로**](https://swmaestro.org/sw/main/main.do) | SW마에스트로의 서포터즈로 활동하고 있습니다.  | 2022.04~현재 | supporter |
+| [**SWMaestro**](https://swmaestro.org/sw/main/main.do) | SW마에스트로의 서포터즈로 활동하고 있습니다.  | 2022.04~현재 | supporter |
 | [**Yourssu**](https://yourssu.com/) | 1년 반동안 숭실대학교 it중앙동아리 유어슈에서 HR의 팀원으로서, 10개의 부서, 약 150명이 넘는 멤버들을 관리하였습니다. | 2022.04~2023.07 | HR Manager |
 

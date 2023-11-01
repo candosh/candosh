@@ -17,6 +17,6 @@ Name : 최서현 (Seohyeon Choi) <br/>
 |---|---|---|
 | [**VISLAB**](http://vis.ssu.ac.kr/) | 2023.07~현재 | Undergraduate Research Student |
 | [**LikeLion**](https://github.com/likelion-ssu/) | 2023.03~현재 | Frontend Developer |
-| [**SWMaestro**](https://swmaestro.org/sw/main/main.do) | 2022.04~현재 | Supporter |
+| [**SWMaestro**](https://swmaestro.org/sw/main/main.do) | 2022.04~현재 | supporters |
 | [**Yourssu**](https://yourssu.com/) | 2022.04~2023.07 | HR Manager |
 

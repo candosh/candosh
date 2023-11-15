@@ -13,7 +13,7 @@ Name : 최서현 (Seohyeon Choi) <br/>
 | [**BanlanSSU**](https://github.com/hackathon-I-PROMAX) | 너의 선택을 보여줘! 밸런슈 : 밸런스 게임을 할 수 있는 iOS 애플리케이션 | 2023.01~2023.09 | PM |
 
 
-## 🍀 Activity 🍀
+## 🍀 Experience 🍀
 
 |활동명|활동기간|직책|
 |---|---|---|

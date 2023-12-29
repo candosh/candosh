@@ -2,6 +2,7 @@
 
 ## 🤓 Profile 🤓
 Name : 최서현 (Seohyeon Choi) <br/>
+Soongsil University, CSE
 
 
 ## ⭐️ Project ⭐️

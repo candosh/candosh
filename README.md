@@ -19,6 +19,7 @@ Name : 최서현 (Seohyeon Choi) <br/>
 |활동명|활동기간|직책|
 |---|---|---|
 | [**VISLAB**](http://vis.ssu.ac.kr/) | 2023.07~현재 | Intern |
+| [**Google Developer Student Clubs**](https://sites.google.com/view/gdscsoongsil) | 2023.09~현재 | Server/Cloud |
 | [**LikeLion**](https://github.com/likelion-ssu/) | 2023.03~2023.12 | Frontend Developer |
 | [**SWMaestro**](https://swmaestro.org/sw/main/main.do) | 2023.04~2023.12 | supporters |
 | [**Yourssu**](https://yourssu.com/) | 2022.04~2023.07 | HR Manager |

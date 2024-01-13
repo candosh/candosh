@@ -1,8 +1,7 @@
-### 안녕하세요 :) <br/>도전을 두려워하지 않고 꾸준히 성장하는 개발자가 되고 싶은 최서현입니다.🐥
-
 ## 🤓 Profile 🤓
-최서현 (Seohyeon Choi) <br/>
-Soongsil University, CSE
+- 안녕하세요 :) 도전을 두려워하지 않고 꾸준히 성장하는 개발자가 되고 싶은 최서현입니다.🐥 <br/>
+- Seohyeon Choi <br/>
+- Soongsil University, CSE
 
 ## 👩🏻‍💻 Ongoing Project Work 👩🏻‍💻
 | 프로젝트명 | 설명 | 프로젝트기간 | 직책 |

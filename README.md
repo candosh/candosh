@@ -7,6 +7,7 @@
 | 프로젝트명 | 설명 | 프로젝트기간 | 직책 |
 |-----------|------|------------|-----|
 | [**Paperlist**](https://github.com/vislab-ssu) | 다양한 차트를 이용한 학회 및 논문 검색 서비스 | 2023.09~ | Server && Web Frontend Developer |
+| [**Pat(h) to Pet**](https://github.com/gdsc-ssu/Path-to-Pet-Client) | Google Solution Challenge | 2024.01~ | Web Frontend Developer |
 
 
 ## ⭐️ Project ⭐️

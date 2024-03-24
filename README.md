@@ -1,5 +1,5 @@
 # 🤓 Profile 🤓 <img src="https://github.com/candosh/candosh/assets/104755384/c5b49a8a-a519-4065-9ef0-913330e448a6" width="70" alt="Animation Cat">
-- 안녕하세요 :) 도전하고 성장하는 것을 좋아하는 개발자 최서현 입니다.🙂 <br/>
+- 안녕하세요 :) <b>도전</b>하고 <b>성장</b>하는 것을 좋아하는 개발자 <b>최서현</b> 입니다.🙂 <br/>
 - 최소한의 배려가 담긴 서비스를 만들어 나가고 싶습니다.
 - Soongsil University, CSE <br/>
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcandosh%2Fhit-counter&count_bg=%23FFB5E5&title_bg=%23555555&icon=&icon_color=%23FFCAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

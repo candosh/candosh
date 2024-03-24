@@ -1,4 +1,6 @@
-## 🤓 Profile 🤓
+<img src="https://github.com/candosh/candosh/assets/104755384/c5b49a8a-a519-4065-9ef0-913330e448a6" width="70" alt="Animation Cat">
+
+# 🤓 Profile 🤓
 - 안녕하세요 :) 도전하고 성장하는 것을 좋아하는 개발자 최서현 입니다.🙂 <br/>
 - 최소한의 배려가 담긴 서비스를 만들어 나가고 싶습니다.
 - Soongsil University, CSE <br/>

@@ -1,6 +1,6 @@
 ## 🤓 Profile 🤓
-- 안녕하세요 :) 도전을 두려워하지 않고 꾸준히 성장하는 개발자가 되고 싶은 최서현입니다.🐥 <br/>
-- Seohyeon Choi <br/>
+- 안녕하세요 :) 도전하고 성장하는 것을 좋아하는 개발자 최서현 입니다.🙂 <br/>
+- 최소한의 배려가 담긴 서비스를 만들어 나가고 싶습니다.
 - Soongsil University, CSE <br/>
 - [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcandosh%2Fhit-counter&count_bg=%23FFB5E5&title_bg=%23555555&icon=&icon_color=%23FFCAFA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 

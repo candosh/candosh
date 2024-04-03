@@ -24,6 +24,7 @@
 ## 🍀 Experience 🍀
 <details>
   <summary><b>👩🏻‍🎤🧑🏻‍🎤👨🏻‍🎤</b></summary>
+  
 - [**VISLAB**](http://vis.ssu.ac.kr/) | 2023.07~ | Intern 
 - [**Google Developer Student Clubs**](https://sites.google.com/view/gdscsoongsil) | 2023.09~ | Server/Cloud
 - [**Yourssu**](https://yourssu.com/) | 2022.04~2023.07 , 2023.08 ~2024.02 | HR Manager, Vice Lead

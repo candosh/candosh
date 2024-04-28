@@ -29,5 +29,4 @@
 - [**Google Developer Student Clubs**](https://sites.google.com/view/gdscsoongsil) | 2023.09~ | Server/Cloud
 - [**Yourssu**](https://yourssu.com/) | 2022.04~2023.07 , 2023.08 ~2024.02 | HR Manager, Vice Lead
 - [**LikeLion**](https://github.com/likelion-ssu/) | 2023.03~2023.12 | Frontend Developer
-- [**SWMaestro**](https://swmaestro.org/sw/main/main.do) | 2023.04~2023.12 | supporters
 </details>

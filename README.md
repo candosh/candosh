@@ -5,7 +5,7 @@
 
 ## Project
 <details>
-  <summary><b>Project</b></summary>
+  <summary><b>👩🏻‍💻Project</b></summary>
 
   | 프로젝트명 | 설명 | 프로젝트기간 | 직책 |
   |-----------|------|------------|-----|
@@ -24,7 +24,7 @@
 
 ## Experience
 <details>
-  <summary><b>Experience</b></summary>
+  <summary><b>💡Experience</b></summary>
   
 - [**VISLAB**](http://vis.ssu.ac.kr/) | 2023.07~ | Intern 
 - [**Google Developer Student Clubs**](https://sites.google.com/view/gdscsoongsil) | 2023.09~ | Server/Cloud

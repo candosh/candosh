@@ -1,6 +1,5 @@
 # Profile <img src="https://github.com/candosh/candosh/assets/104755384/c5b49a8a-a519-4065-9ef0-913330e448a6" width="70" alt="Animation Cat">
 - 안녕하세요 :) <b>도전</b>하고 <b>성장</b>하는 것을 좋아하는 개발자 <b>최서현</b> 입니다. <br/>
-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcandosh%2Fhit-counter&count_bg=%23FF98C8&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=cat+paws&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Project
 <details>
@@ -20,7 +19,6 @@
 </details>
 
 
-
 ## Experience
 <details>
   <summary><b>💡Experience</b></summary>
@@ -30,3 +28,5 @@
 - [**Yourssu**](https://yourssu.com/) | 2022.04~2023.07 , 2023.08 ~2024.02 | HR Manager, Vice Lead
 - [**LikeLion**](https://github.com/likelion-ssu/) | 2023.03~2023.12 | Frontend Developer
 </details>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcandosh%2Fhit-counter&count_bg=%23FF98C8&title_bg=%23555555&icon=baidu.svg&icon_color=%23E7E7E7&title=cat+paws&edge_flat=false)](https://hits.seeyoufarm.com)

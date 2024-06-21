@@ -8,7 +8,7 @@
   | 프로젝트명 | 설명 | 프로젝트기간 | 직책 |
   |-----------|------|------------|-----|
    | [**COGO**](https://github.com/Soongsil-CoffeeChat) | 숭실대학교 커피챗 서비스 | 2024.04~ | Web Frontend Developer |
-   | [**숨쉴때**]() | 숭실대학생들을 위한 플레이그라운드 | 2023.12~ | PM |
+   | [**숨쉴때**]() | 숭실대 학생들을 위한 대학라이프 종합 어플 | 2023.12~ | PM |
   | [**Paperlist**](https://github.com/vislab-ssu) | 다양한 차트를 이용한 학회 및 논문 검색 서비스 | 2023.09~ | Server && Web Frontend Developer |
   | [**Pat(h) to Pet**](https://github.com/gdsc-ssu/Path-to-Pet-Client) | Google Solution Challenge : 사진 검색으로 유기동물을 찾을 수 있는 서비스 | 2024.01~2024.02 | Web Frontend Developer |
   | [**Keyword-z**](https://github.com/gdsc-ssu/keyword-z) | 2023 MZ 트렌드 능력고사 | 2023.12 | Web Frontend Developer && Design |
@@ -25,7 +25,7 @@
   
 - [**VISLAB**](http://vis.ssu.ac.kr/) | 2023.07~ | Intern 
 - [**Google Developer Student Clubs**](https://sites.google.com/view/gdscsoongsil) | 2023.09~ | Server/Cloud
-- [**Yourssu**](https://yourssu.com/) | 2022.04~2023.07 , 2023.08 ~2024.02, 2024.03~ | HR Manager, Vice Lead, Head Lead
+- [**Yourssu**](https://yourssu.com/) | 2022.04 ~ 2023.07 , 2023.08 ~ 2024.02, 2024.03~ | HR Manager, Vice Lead, Head Lead
 - [**LikeLion**](https://github.com/likelion-ssu/) | 2023.03~2023.12 | Frontend Developer
 </details>
 

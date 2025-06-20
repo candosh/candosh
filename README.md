@@ -2,4 +2,4 @@
 Hello :) I am <b>Seohyeon Choi</b>, a developer who likes <b>challenges</b> and <b>growth</b>.
 
 ![GitPaws Cat](https://gitpaws.vercel.app/api/cat/image/candosh) <br/>
-https://github.com/candosh/GitPaws
+https://gitpaws.vercel.app 🐾
